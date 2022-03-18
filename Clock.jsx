@@ -2,6 +2,7 @@
 * A digital Clock Component. *
 * Author: Nikos-Nikitas      *
 ******************************/
+import React from 'react';
 
 class Clock extends React.Component {
     
