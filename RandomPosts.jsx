@@ -2,6 +2,7 @@
 * Random posts with dummy data that will appear on the feed. *
 * Author: Nikos-Nikitas                                      *
 **************************************************************/
+import React from 'react';
 
 class RandomPosts extends React.Component {
       constructor(props) {
